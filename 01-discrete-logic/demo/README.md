@@ -1,11 +1,17 @@
 ## AND Gate Demo
 
-<video src="and-demo.mp4" width="600" controls></video>
+<a href="and-demo.mp4">
+  <img src="../photos/and-gate.jpg" width="300">
+</a>
 
 ## NAND Gate Demo
 
-<video src="nand-gate-demo.mp4" width="600" controls></video>
+<a href="nand-gate-demo.mp4">
+  <img src="../photos/nand-gate.jpg" width="300">
+</a>
 
 ## Half Adder Demo
 
-<video src="half-adder-demo.mp4" width="600" controls></video>
+<a href="half-adder-demo.mp4">
+  <img src="../photos/half-adder-1.jpg" width="300">
+</a>
