@@ -1,4 +1,4 @@
-# Discrete Logic
+# Discrete Logic Photos
 
 ## NAND gate
 <img src="nand-gate.jpg" width="600">
