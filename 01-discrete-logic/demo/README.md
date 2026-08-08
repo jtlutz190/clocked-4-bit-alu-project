@@ -4,7 +4,7 @@
 
 ## NAND Gate Demo
 
-<video src="nand-demo.mp4" width="600" controls></video>
+<video src="nand-gate-demo.mp4" width="600" controls></video>
 
 ## Half Adder Demo
 
