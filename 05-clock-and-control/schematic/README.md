@@ -2,7 +2,7 @@
 
 ## Clock circuit
 
-<img src="clock-schematic1.png" width="600">
+<img src="clock-schematic.png" width="600">
 
 <img src="clock-schematic2.png" width="600">
 
