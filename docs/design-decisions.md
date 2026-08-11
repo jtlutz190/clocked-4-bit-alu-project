@@ -10,4 +10,4 @@ This document lists the reasoning behind the design choices of the ALU.
 - Used registers for inputs and outputs to gain experience and add a sense of memory to the ALU. Could also be utilized if I wanted to upgrade my ALU in a v2 build.
 - Added manual and auto clock settings in order to gain experience, replicate a real global clock line in a CPU, and so the registers can update continuously.
 - Chose to stop before implementing full opcode sequencing/control logic so the scope stayed focus on a manageable ALU system (and not a breadboard mess). Would defnitely be interested in adding sequence coding in a v2 build, aiming for a full CPU architecture.
-- 
+- 3D printed an ALU case to consolidate the 2 separate breadboards onto one common platform. Made it easier to carry/rotate.
