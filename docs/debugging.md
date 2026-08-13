@@ -2,7 +2,7 @@
 
 This document lists the issues faced when building the ALU and how I faced them.
 
-- Throughout the whole project I faced lots of incorrect wire placement, got very familiar and confident with how to topologically use a multimeter to debug and utilize notes to determine correct wire/node placement.
+- Throughout the whole project I faced lots of incorrect wire placement, became very familiar with how to topologically use a multimeter to debug and utilize notes to determine correct wire/node placement.
   
 - Early logic ICs behaved unexpectedly and had multiple floating voltage problems, appeared to have TTL-like input behavior. Switched ICs with components sourced from Digi-Key which resolved the inconsistent input behavior.
   
