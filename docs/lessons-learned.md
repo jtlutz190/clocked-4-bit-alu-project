@@ -3,7 +3,7 @@
 This document lists all of the skills and ideas I've learned while building the ALU.
 
 
-- Learned to separate logical correctness from electrical correctness. A logically correct design can still fail physically due to power issues, floating inputs, or wiring problems.
+- Learned to separate logical correctness from electrical correctness. A logically correct design can still fail physically due to power issues, floating inputs, wiring problems, etc.
 
 - Learned that abstraction is vital when working with larger systems. Once the ALU or registers were verified, I could treat them as functional blocks and focus on the signals entering and leaving them. I also applied this approach when designing the schematics.
 
@@ -13,9 +13,9 @@ This document lists all of the skills and ideas I've learned while building the 
   
 - One of the first concepts I learned during this project was the importance of pull-up and pull-down resistors. Early on, I allowed inactive inputs to float instead of defining them with pull-down resistors, which caused unreliable logic states and dim LEDs.
 
-- Learned how to recognize floating voltages and undefined logic levels. After encountering dim LEDs and unexpected node voltages around ~0.66 V, I became much faster at identifying grounding or power issues.
+- In general, I learned how to recognize floating voltages and undefined logic levels. After encountering dim LEDs and unexpected node voltages around ~0.66 V, I became much faster at identifying grounding or power issues.
 
-- Learned how to read and use IC datasheets effectively. Datasheets became an essential reference for understanding pinouts, electrical characteristics, control inputs, and expected device behavior.
+- Learned how to read and use IC datasheets effectively. Datasheets became an essential reference for understanding pinouts, electrical characteristics, control inputs, and expected device behavior. Had to reference them multiple times throughout the project to confirm placements.
 
 - Developed a stronger understanding of the 74HC logic family and common IC conventions, including supply pins, logic-level behavior, and the importance of properly defined inputs.
 
