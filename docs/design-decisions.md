@@ -12,10 +12,12 @@ This document lists the reasoning behind the design choices of the ALU.
   
 - Kept only the signed overflow flag as a 4-bit overflow to see whether the result would be truncated if converted back to 4-bits. Removed Z,N,C flags in the 4-bit ALU because I believed they were redundant and I didn't necessarily need them.
   
-- Used registers for inputs and outputs to gain experience and add a sense of memory to the ALU. Could also be utilized if I wanted to upgrade my ALU in a v2 build.
+- Used registers for inputs and outputs to gain experience, replicate a real CPU architecture, and add a sense of memory to the ALU. Could also be utilized if I wanted to upgrade my ALU in a v2 build.
   
-- Added manual and auto clock settings in order to gain experience, replicate a real global clock line in a CPU, and so the registers can update continuously.
+- Added manual and auto clock settings in order to gain experience, replicate a real global clock line in a CPU, and so the registers can update continuously instead of having to manually press for each update.
   
 - Chose to stop before implementing full opcode sequencing/control logic so the scope stayed focus on a manageable ALU system (and not a breadboard mess). Would defnitely be interested in adding sequence coding in a v2 build, aiming for a full CPU architecture.
   
 - 3D printed an ALU case to consolidate the 2 separate breadboards onto one common platform. Made it easier to carry/rotate.
+
+-Utilized zip ties to clean up wire mess and to display bus wiring cleanly.
