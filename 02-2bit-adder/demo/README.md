@@ -11,13 +11,15 @@ Demonstrates the 2-bit adder/subtractor performing arithmetic on two 2-bit input
 ## Operations performed in demo
 
 | Operation | Carry Output | Decimal Result |
-|---|---|---|---|
+|---|---|---|
 | `01 + 00 = 01` | 0 | 1 + 0 = 1 |
 | `01 + 01 = 10` | 0 | 1 + 1 = 2 |
 | `11 + 01 = 00` | 1 | 3 + 1 = 4 |
 | `11 + 11 = 10` | 1 | 3 + 3 = 6 | 
 | `00 - 00 = 00`| 1 | 0 - 0 = 0 |
-| `10 - 00 = 01` | 1 | 2 - 0
+| `01 - 00 = 01` | 1 | 1 - 0 = 1 |
+| `11 - 01 = 10` | 1 | 3 - 1 = 2 |
+| `11 - 11 = 00` | 1 | 3 - 3 = 0 |
 
 
 ### ALU Flags Demo
