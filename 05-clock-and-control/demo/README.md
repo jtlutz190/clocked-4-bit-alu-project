@@ -2,11 +2,11 @@
 
 Demonstrates the ALU's clock circuit and its manual/automatic operating modes. An SPDT switch at the rear of the ALU selects between manual clock control and the automatic clock signal, while a white LED indicates the currently selected mode.
 
-<a href="https://youtu.be/Xrl-1mJyIv4">
-  <img src="https://img.youtube.com/vi/Xrl-1mJyIv4/maxresdefault.jpg" width="450">
+<a href="https://youtu.be/mN8dUdYyG5c">
+  <img src="https://img.youtube.com/vi/mN8dUdYyG5c/maxresdefault.jpg" width="450">
 </a>
 
-▶️ **[Watch demo on YouTube](https://youtu.be/Xrl-1mJyIv4)**
+▶️ **[Watch demo on YouTube](https://youtu.be/mN8dUdYyG5c)**
 
 ### ALU Control Interface Demo
 
