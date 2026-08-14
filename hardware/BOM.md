@@ -24,3 +24,4 @@
 | LEDs | 15 | 13x Red 1x Green 1x White | Elegoo |
 | 6' M-M multicolored jumper wires | ~125 | Make electrical connections | Micro center |
 | Breadboard casing | 1 | Made from 3D printer / 3D printer filament | Owned |
+| Zip ties | ~5 | Wire management / bus wiring | Amazon |
