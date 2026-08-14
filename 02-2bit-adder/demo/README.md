@@ -8,6 +8,8 @@ Demonstrates the 2-bit adder/subtractor performing arithmetic on two 2-bit input
 
 ▶️ **[Watch demo on YouTube](https://youtu.be/pEOp_cC26Ko)**
 
+10 - 00 IS MEANT TO BE SAID AS 01 - 00 IN THE VIDEO *
+
 ## Operations performed in demo
 
 | Operation | Carry Output | Decimal Result |
