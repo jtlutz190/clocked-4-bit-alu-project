@@ -8,6 +8,18 @@ Demonstrates the 2-bit adder/subtractor performing arithmetic on two 2-bit input
 
 ▶️ **[Watch demo on YouTube](https://youtu.be/pEOp_cC26Ko)**
 
+## Operations performed in demo
+
+| Operation | Carry Output | Decimal Result |
+|---|---|---|---|
+| `01 + 00 = 01` | 0 | 1 + 0 = 1 |
+| `01 + 01 = 10` | 0 | 1 + 1 = 2 |
+| `11 + 01 = 00` | 1 | 3 + 1 = 4 |
+| `11 + 11 = 10` | 1 | 3 + 3 = 6 | 
+| `00 - 00 = 00`| 1 | 0 - 0 = 0 |
+| `10 - 00 = 01` | 1 | 2 - 0
+
+
 ### ALU Flags Demo
 
 Demonstrates the status flags responding to arithmetic operations performed by the 2-bit adder/subtractor. Four LEDs on the right side of the breadboard indicate the resulting flags:
