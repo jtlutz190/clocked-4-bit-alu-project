@@ -103,7 +103,7 @@ Major components include:
 | `NE555`      | Automatic clock generator |
 | `2N2222A`    | Discrete transistor logic |
 
-See the full [Bill of Materials](BOM.md) for component quantities and sourcing information.
+See the full [Bill of Materials](hardware/BOM.md) for component quantities and sourcing information.
 
 ## Demonstrations
 
