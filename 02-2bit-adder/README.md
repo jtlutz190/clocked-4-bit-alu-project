@@ -3,7 +3,7 @@
 This phase expands the half-adder concept into a **2-bit adder/subtractor** capable of performing binary addition and subtraction. It also marks the transition from discrete transistor logic to **74HC-series logic ICs**.
 
 <p align="center">
-  <img src="photos/2bit-adder.jpg" width="700">
+  <img src="photos/2bit-adder-1.jpg" width="700">
 </p>
 
 ## Goal
