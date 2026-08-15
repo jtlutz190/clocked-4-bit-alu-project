@@ -54,7 +54,7 @@ The main challenges were correctly identifying transistor pinouts, preventing fl
 
 This phase reinforced:
 
-* Transistors as digital switches
+* Transistors as digital switches, specifically NPN transistors
 * Boolean logic
 * NAND, AND, and XOR behavior
 * Binary addition
