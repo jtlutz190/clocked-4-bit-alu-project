@@ -46,6 +46,7 @@ This phase reinforced:
 * 5-bit arithmetic results
 * Modular ALU design
 * Debugging larger digital circuits
+* How to maintain clean bus wiring circuit design
 
 ## Demo
 
