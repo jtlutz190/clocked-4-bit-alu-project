@@ -3,7 +3,7 @@
 This final phase adds the **clock and control system**, allowing the ALU and registers to operate as one integrated datapath using either manual or automatic clock pulses.
 
 <p align="center">
-  <img src="photos/final-build.jpg" width="700">
+  <img src="photos/alu-control-1.jpg" width="700">
 </p>
 
 ## Goal
