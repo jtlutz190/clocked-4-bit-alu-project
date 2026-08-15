@@ -9,6 +9,8 @@ Two SPDT switches select the ALU operation using a 2-bit mode input:
 * **10:** AND
 * **11:** XOR
 
+(This demo was recorded on the final build)
+
 <a href="https://youtu.be/d8Bg-rcKisM">
   <img src="https://img.youtube.com/vi/d8Bg-rcKisM/maxresdefault.jpg" width="450">
 </a>
